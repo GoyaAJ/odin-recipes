@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>GOYA`S RECIPES</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
 <h1>ODIN RECIPES</h1>
 <img src="https://user-images.githubusercontent.com/91133607/136954391-185968e7-5f66-4030-a491-b750e18718ee.jpg" alt="French`s Fried Onion Chicken Recipe>
 <h3><strong>FRENCH'S FRIED ONION CHICKEN RECIPE</strong></h3>
@@ -20,3 +27,5 @@
 </ol>
 <a href="https://user-images.githubusercontent.com/91133607/136967540-7bc9f9dc-a54a-4557-a687-fbf434415738.jpg" alt="Parmesan-Ranch Chicken Recipe">
 <a href="https://user-images.githubusercontent.com/91133607/136969344-3b88c397-9c76-42fe-8754-afbc93629c3f.jpg" alt="Ranch Chicken Tender Recipe">
+  </body>
+</html>
